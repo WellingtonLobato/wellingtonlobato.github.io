@@ -30,7 +30,7 @@ url: wellingtonlobato.github.io # the base hostname & protocol for your site, e.
 github_username:  WellingtonLobato
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
